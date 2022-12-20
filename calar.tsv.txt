@@ -1,0 +1,6 @@
+Student_name	school_name	address	country	phone	Pancard
+Sourav Kumar	The Shining Moon Academy	Bellevue, Washington	U.S.	9987651234	BATJPN6345U
+Swarup Ranjan	Battle Creek High School	Bellevue, Washington	U.S.	9987652345	BATKLJ3246L
+Kumar tridevi	Sunlight Academy	Bellevue, Washington	U.S.	9934567898	BATJUI8765P
+Dikyaraj	Bloomington Heights	Bellevue, Washington	U.S.	9983456789	BAKIGP8932S
+Manas	Morning Glory	Bellevue, Washington	U.S.	9983456778	BAUIUTP987L
